@@ -5,4 +5,4 @@ Tutorial Link: [React & Tailwind CSS Image Gallery](https://www.youtube.com/watc
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The live website can be found [Here]()
+The live website can be found [Here](https://reactailwindplayground.netlify.app/)
